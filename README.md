@@ -1,1 +1,1 @@
-# image-super-resolution-benchmark-pytorch
+# image-super-resolution-benchmark
